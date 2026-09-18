@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "Proximum"]
+	path = Proximum
+	url = https://github.com/agostinognasso/proximum
+[submodule "rankimp"]
+	path = rankimp
+	url = https://github.com/agostinognasso/rankimp
